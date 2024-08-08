@@ -1,6 +1,6 @@
 #include "StartMenu.h"
 #include "Colors.cpp"
-d
+
 
 void StartMenu::runWasalni()
 {
