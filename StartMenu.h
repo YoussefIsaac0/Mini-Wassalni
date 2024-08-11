@@ -9,7 +9,7 @@ class StartMenu {
 
 	bool graphExists(const string& graphName);
 	bool addIfValid(string graphName);
-	void initializeQuery();
+	void initializeQuery();y
 
 public: 
 	Graph currentGraph;
